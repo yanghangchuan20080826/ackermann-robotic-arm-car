@@ -17,10 +17,10 @@
 
 ## 3. 核心技术
 
-- 阿克曼转向机构与运动控制
-- 嵌入式系统控制
-- 红外传感器检测
-- 超声波测距与避障
+- 阿克曼转向机构与运动控制https://github.com/yanghangchuan20080826/ackermann-robotic-arm-car/blob/main/github-video-01.mp4
+- 嵌入式系统控制https://github.com/yanghangchuan20080826/ackermann-robotic-arm-car/blob/main/github-video-02.mp4
+- 红外传感器检测https://github.com/yanghangchuan20080826/ackermann-robotic-arm-car/blob/main/github-video-03.mp4
+- 超声波测距与避障https://github.com/yanghangchuan20080826/ackermann-robotic-arm-car/blob/main/%E7%A1%AC%E4%BB%B6%E6%B3%A8%E9%87%8A_%E5%AE%8C%E6%95%B4%E7%89%88.png
 - PWM舵机控制
 - 多模块机电系统集成
 
